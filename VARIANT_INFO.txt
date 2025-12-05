@@ -1,0 +1,4 @@
+Variant: cpu
+Platform: linux
+Architecture: x86_64
+Built: vie 05 dic 2025 09:11:57 CET
