@@ -47,7 +47,7 @@ export LD_LIBRARY_PATH=~/www/MCP/Remembrances/go-llama.cpp/build/bin:$LD_LIBRARY
   --gguf-gpu-layers 32
 ```
 
-**📖 Full Documentation**: See [docs/GGUF_EMBEDDINGS.md](docs/GGUF_EMBEDDINGS.md) for detailed instructions, performance tips, and troubleshooting.
+**📖 Full Documentation**: See [docs/GGUF_EMBEDDINGS.md](https://github.com/madeindigio/remembrances-mcp/tree/v1.14.1/docs/GGUF_EMBEDDINGS.md) for detailed instructions, performance tips, and troubleshooting.
 
 ## 🔍 Code Indexing System (NEW)
 
@@ -97,9 +97,9 @@ Remembrances-MCP includes a powerful **Code Indexing System** that uses Tree-sit
 Go, TypeScript, JavaScript, TSX, Python, Rust, Java, Kotlin, Swift, C, C++, Objective-C, PHP, Ruby, C#, Scala, Bash, YAML
 
 **📖 Full Documentation**: 
-- [docs/CODE_INDEXING.md](docs/CODE_INDEXING.md) - User Guide
-- [docs/CODE_INDEXING_API.md](docs/CODE_INDEXING_API.md) - API Reference
-- [docs/TREE_SITTER_LANGUAGES.md](docs/TREE_SITTER_LANGUAGES.md) - Language Support
+- [docs/CODE_INDEXING.md](https://github.com/madeindigio/remembrances-mcp/tree/v1.14.1/docs/CODE_INDEXING.md) - User Guide
+- [docs/CODE_INDEXING_API.md](https://github.com/madeindigio/remembrances-mcp/tree/v1.14.1/docs/CODE_INDEXING_API.md) - API Reference
+- [docs/TREE_SITTER_LANGUAGES.md](https://github.com/madeindigio/remembrances-mcp/tree/v1.14.1/docs/TREE_SITTER_LANGUAGES.md) - Language Support
 
 ## 💡 Tool Help System (how_to_use)
 
@@ -128,7 +128,7 @@ how_to_use("search_code")
 - **On-demand documentation** - load only what you need
 - **Comprehensive help** - full arguments, examples, and related tools
 
-**📖 Full Documentation**: See [docs/TOOL_HELP_SYSTEM.md](docs/TOOL_HELP_SYSTEM.md)
+**📖 Full Documentation**: See [docs/TOOL_HELP_SYSTEM.md](https://github.com/madeindigio/remembrances-mcp/tree/v1.14.1/docs/TOOL_HELP_SYSTEM.md)
 
 ## Usage
 
@@ -332,7 +332,7 @@ go run ./cmd/remembrances-mcp/main.go --knowledge-base ./kb --rest-api-serve
 
 ## License
 
-See [LICENSE.txt](LICENSE.txt).
+See [LICENSE.txt](https://github.com/madeindigio/remembrances-mcp/tree/v1.14.1/LICENSE.txt).
 
 ## Tasks
 
