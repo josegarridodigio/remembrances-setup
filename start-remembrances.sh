@@ -175,6 +175,9 @@ fi
 # Execute remembrances-mcp
 log_step "Starting remembrances-mcp..."
 
+# Change to script directory to ensure relative paths in config work correctly
+cd "$SCRIPT_DIR"
+
 # Set LD_LIBRARY_PATH to include the lib directory
 export LD_LIBRARY_PATH="$SCRIPT_DIR/lib:${LD_LIBRARY_PATH:-}"
 
