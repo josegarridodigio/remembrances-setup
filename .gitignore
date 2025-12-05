@@ -1,0 +1,25 @@
+# SurrealDB database files
+*.db
+*.db-*
+remembrances.db*
+
+# Log files
+*.log
+surreal.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Personal configuration file
+config.yaml
